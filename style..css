@@ -97,7 +97,7 @@ h1{font-size: 20px;}
 h1{font-size: 30px;}
 .header-container{font-size: 15px;background:#50ADBF#00D4FF;}
 .left{margin-top: -30px;}
-.right{margin-top: 20px;}
+.right{margin-top: -20px;}
 .header-gif{height: 70px; width: 70px;}
 }
 @media(min-width: 1201px){
@@ -108,3 +108,4 @@ h1{font-size: 30px;}
 .header-gif{height: 100px; width: 100px;}
 
 }
+
