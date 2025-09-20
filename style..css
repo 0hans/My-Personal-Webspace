@@ -102,12 +102,13 @@ h1{font-size: 30px;}
 }
 @media(min-width: 1201px){
 h1{font-size: 30px;}
-.header-container{font-size: 15px;}
+.header-container{font-size: 25px;}
 .left{margin-top: -30px;}
 .right{margin-top: -40px;}
 .header-gif{height: 100px; width: 100px;}
 
 }
+
 
 
 
