@@ -1,4 +1,4 @@
-/********** Template CSS **********/
+/********** Portfolio CSS **********/
 :root {
   --primary: #00B87B;
   --secondary: #314355;
@@ -215,4 +215,13 @@
 
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
+}
+.mb-1 {
+  color: #00B87B;
+}
+#clean {
+  color: #00B87B;
+}
+#functional {
+  color: skyblue; 
 }
